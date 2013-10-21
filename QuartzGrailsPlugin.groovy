@@ -36,7 +36,7 @@ import org.quartz.*
  */
 class QuartzGrailsPlugin {
 
-    def version = "1.0-RC2"
+    def version = "1.0-RC2.1-SNAPSHOT"
     def grailsVersion = "1.2 > *"
 
     def author = "Sergey Nebolsin, Graeme Rocher"

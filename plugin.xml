@@ -1,4 +1,4 @@
-<plugin name='quartz' version='1.0-RC2' grailsVersion='1.2 &gt; *'>
+<plugin name='quartz' version='1.0-RC2.1-SNAPSHOT' grailsVersion='1.2 &gt; *'>
   <author>Sergey Nebolsin, Graeme Rocher</author>
   <authorEmail>nebolsin@gmail.com</authorEmail>
   <title>Quartz plugin for Grails</title>
@@ -17,6 +17,7 @@
     <repository name='http://repo.grails.org/grails/core' url='http://repo.grails.org/grails/core/' />
     <repository name='grailsCore' url='http://svn.codehaus.org/grails/trunk/grails-plugins' />
     <repository name='mavenCentral' url='http://repo1.maven.org/maven2/' />
+    <repository name='http://repository.ow2.org/nexus/content/repositories/ow2-legacy' url='http://repository.ow2.org/nexus/content/repositories/ow2-legacy/' />
   </repositories>
   <dependencies>
     <compile>

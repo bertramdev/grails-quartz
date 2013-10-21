@@ -10,6 +10,7 @@ grails.project.dependency.resolution = {
         grailsHome()
         grailsCentral()
         mavenCentral()
+				mavenRepo "http://repository.ow2.org/nexus/content/repositories/ow2-legacy"
     }
 
     dependencies {
